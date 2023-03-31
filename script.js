@@ -14,5 +14,5 @@ function calculateMinCost() {
 		
 	}
   
-  
+  document.getElementById("result").innerText = cost;
 }  
